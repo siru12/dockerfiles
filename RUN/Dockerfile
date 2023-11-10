@@ -1,1 +1,1 @@
-FROM Centos:8
+FROM centos:8
